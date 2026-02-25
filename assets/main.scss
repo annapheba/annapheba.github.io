@@ -1,0 +1,33 @@
+@import "jekyll-theme-merlot";
+
+/* 🌈 Pastel Overrides */
+
+body {
+  background: linear-gradient(135deg, #ffe6f0, #e6f7ff, #f0ffe6);
+  font-family: "Quicksand", sans-serif;
+}
+
+.page-header {
+  background: #ffd6eb !important;
+  border-bottom: none;
+}
+
+.site-title,
+.project-name {
+  color: #6a5acd !important;
+}
+
+a {
+  color: #ff8fb1;
+}
+
+a:hover {
+  color: #ff5c8a;
+}
+
+.main-content {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
