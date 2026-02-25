@@ -1,7 +1,3 @@
----
-layout: default
-title: Home
----
 
 <div class="hero">
   <h1>Hi, I'm Pheba 👋</h1>
