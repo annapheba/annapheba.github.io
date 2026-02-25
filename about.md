@@ -1,3 +1,4 @@
+<div class="main-content">
 ---
 layout: page
 title: About Me
@@ -19,3 +20,4 @@ I love:
 ### 📬 Contact Me
 
 Email: phebaannaphilip@outlook.com
+</div>
