@@ -5,7 +5,14 @@ body {
   color: #444;
   margin: 0;
 }
-
+.main-content {
+  max-width: 900px;          /* keeps content centered and narrow */
+  margin: 50px auto;         /* top/bottom + center horizontally */
+  padding: 40px;             /* space inside the container */
+  background: rgba(255, 255, 255, 0.9); /* white with slight transparency */
+  border-radius: 20px;       /* rounded corners */
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08); /* subtle shadow */
+}
 .hero {
   text-align: center;
   padding: 120px 20px;
