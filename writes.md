@@ -5,12 +5,10 @@ permalink: /writes/
 ---
 
 <div class="hero">
-  <p class="hero-kicker">Words in progress</p>
-  <h1>Writes</h1>
-  <p class="write-quote">"It's only words,<br>
+  <p class="hero-kicker">It's only words,<br>
   And words are all I have,<br>
   To take your heart away"</p>
-  <p class="write-quote-credit">- Words by Bee Gees</p>
+  <h1>Writes</h1>
   <p class="hero-subtitle">A collection of memories, thoughts and reflections.</p>
 </div>
 
