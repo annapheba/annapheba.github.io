@@ -11,7 +11,7 @@ permalink: /writes/archive-thankyouieee/
 </div>
 
 <section class="about-section">
-  <p>  <b></b>Article published in IEEE SB GECBH Magazine 2018, co-authored with Aditya Joseph Mathew </b> <br> <br>
+  <p>  <b> Article published in IEEE SB GECBH Magazine 2018, co-authored with Aditya Joseph Mathew </b> <br> <br>
 
 IEEE - Google this acronym and you will find out that it is the Institute of Electrical and Electronics Engineers, the world’s largest technical organisation. For both of us as well as some of our batchmates who worked together under this organisation, it is much more than the international prestigious label that it owns. We are at a loss of words to explain our feelings and gratitude to IEEE GECBH for being the platform that helped us grow. <br> <br>
 
