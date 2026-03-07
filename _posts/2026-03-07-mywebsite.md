@@ -6,7 +6,7 @@ permalink: /writes/mywebsite/
 
 <div class="hero">
   <p class="hero-kicker">7 March 2026</p>
-  <h1>The 12,573,893rd Version of My Website</h1>
+  <h1>Evolution of my Website</h1>
   <p class="hero-subtitle">Notes from a website I keep coming back to</p>
 </div>
 
