@@ -36,11 +36,11 @@ Then sometime last year, I needed a side project. I went back, bought the domain
 
 Maybe 2026 is the year, my friend. <br> <br>
 
-My brain has been overflowing with thoughts I wanted to dump somewhere, and I was again on the hunt for the perfect platform. I was complaining that I wanted to write but had nowhere to do it, and RJT (hey, husband) said: <i>Just write if you want to. What could possibly be blocking you from publishing some text right now? </i>
+My brain has been overflowing with thoughts I wanted to dump somewhere, and I was again on the hunt for the perfect platform. I was complaining that I wanted to write but had nowhere to do it, and RJT (hey, husband) said: <i>Just write if you want to. What could possibly be blocking you from publishing some text right now? </i> <br> <br>
 
-With how easy it has become to create and host a website, and make it look however I want, using ChatGPT, VS Code, GitHub Copilot, and GitHub Pages, I had no excuses. So today, I decided to start again.
+With how easy it has become to create and host a website, and make it look however I want, using ChatGPT, VS Code, GitHub Copilot, and GitHub Pages, I had no excuses. So today, I decided to start again. <br> <br>
 
-To note down things I feel like writing. I hope and pray this time it sticks, that I continue to capture a sudden spark, a memory, a funny thing that happened, or anything that made me think. That I put it here, and years later come back and find it again.Or maybe, in the future, another person like you will stumble upon it and wonder:
+To note down things I feel like writing. I hope and pray this time it sticks, that I continue to capture a sudden spark, a memory, a funny thing that happened, or anything that made me think. That I put it here, and years later come back and find it again.Or maybe, in the future, another person like you will stumble upon it and wonder: <br> <br>
 
-<b>What stone age was it that a perfectly functioning adult had to rebuild the same website 12 million times.</b></p>
+<b>This was totally unnecessary..."</b></p>
 </section>

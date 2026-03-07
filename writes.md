@@ -17,8 +17,8 @@ permalink: /writes/
   <div class="write-grid">
     <article class="write-card">
       <a class="write-card-link" href="{% post_url 2026-03-07-mywebsite %}">
-        <h3>My website</h3>
-        <p>Notes from the 12,573,893rd version of my website.</p>
+        <h3>Evolution of my website.</h3>
+        <p>Notes from a website I keep coming back to.</p>
         <span>Open →</span>
       </a>
     </article>
