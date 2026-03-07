@@ -2,10 +2,6 @@
   <p class="hero-kicker">A journal to ramble through the noise and quiet moments in my head</p>
   <h1>Hi, I'm Pheba Anna Philip 🌸</h1>
   <p class="hero-subtitle">I write about my life, and the beauty of ordinary days.</p>
-  <div class="hero-actions">
-    <a class="button" href="/about/">Get to Know Me</a>
-    <a class="button button-outline" href="#latest-posts">Read the Blog</a>
-  </div>
 </section>
 
 <section class="highlights" aria-label="Highlights">
@@ -26,9 +22,9 @@
   </article>
 </section>
 
-<section id="latest-posts" class="latest-posts">
+<section id="writes" class="latest-posts">
   <div class="section-heading">
-    <h2>Latest Posts</h2>
+    <h2>Writes</h2>
     <p>Fresh thoughts from the blog.</p>
   </div>
 
@@ -40,5 +36,26 @@
         <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
       </article>
     {% endfor %}
+  </div>
+</section>
+
+<section id="cicks" class="topic-section">
+  <div class="section-heading">
+    <h2>Cicks</h2>
+    <p>Moments captured one frame at a time.</p>
+  </div>
+</section>
+
+<section id="reads" class="topic-section">
+  <div class="section-heading">
+    <h2>Reads</h2>
+    <p>Books, essays, and pieces that stay with me.</p>
+  </div>
+</section>
+
+<section id="travels" class="topic-section">
+  <div class="section-heading">
+    <h2>Travels</h2>
+    <p>Places, routes, and reflections from the road.</p>
   </div>
 </section>

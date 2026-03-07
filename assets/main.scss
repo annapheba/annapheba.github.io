@@ -24,14 +24,32 @@ body {
     var(--bg);
 }
 
-.page-header {
-  background: linear-gradient(135deg, #1f2430, #283244) !important;
-  border: 0;
+.site-header {
+  border-bottom: 1px solid var(--line);
+  background: rgba(252, 250, 245, 0.92);
+  backdrop-filter: blur(6px);
 }
 
-.project-name,
-.project-tagline {
-  color: #f7f1e7 !important;
+.site-nav {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 14px 28px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.site-nav a {
+  font-size: 0.9rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.site-nav a:hover {
+  color: var(--accent-deep);
 }
 
 a {
@@ -80,41 +98,6 @@ a:hover {
   max-width: 680px;
   margin: 0 auto;
   line-height: 1.7;
-}
-
-.hero-actions {
-  display: flex;
-  justify-content: center;
-  gap: 14px;
-  flex-wrap: wrap;
-}
-
-.button {
-  display: inline-block;
-  margin-top: 20px;
-  padding: 11px 22px;
-  background: var(--accent);
-  color: #fdf8ef;
-  text-decoration: none;
-  border-radius: 3px;
-  border: 1px solid var(--accent);
-  transition: background 0.25s ease, color 0.25s ease, border-color 0.25s ease;
-}
-
-.button:hover {
-  background: var(--accent-deep);
-  border-color: var(--accent-deep);
-}
-
-.button-outline {
-  background: transparent;
-  border: 1px solid var(--line);
-  color: var(--ink);
-}
-
-.button-outline:hover {
-  background: #f0e8db;
-  border-color: #c8b79f;
 }
 
 .highlights {
@@ -182,6 +165,11 @@ a:hover {
   color: var(--muted);
 }
 
+.topic-section {
+  padding: 30px 0 8px;
+  border-top: 1px solid var(--line);
+}
+
 .about-section {
   max-width: 760px;
   margin: 0 auto;
@@ -214,6 +202,11 @@ a:hover {
 @media (max-width: 700px) {
   .main-content {
     padding: 24px 18px 44px;
+  }
+
+  .site-nav {
+    gap: 14px;
+    padding: 12px 16px;
   }
 
   .hero {
