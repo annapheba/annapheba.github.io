@@ -12,18 +12,41 @@ permalink: /clicks/
 
 <section class="about-section">
   <h2>Gallery</h2>
-  <div class="clicks-grid">
-    <figure class="click-card">
+  <div class="clicks-flow">
+    <figure class="click-item">
       <img class="click-photo" src="{{ '/assets/images/clicks/PHRO2331.jpg' | relative_url }}" alt="The Oculus" loading="lazy">
-      <figcaption> The Oculus.</figcaption>
+      <figcaption class="click-overlay">
+        <h3>The Oculus</h3>
+        <p>New York City • Architecture • Oct 2024</p>
+      </figcaption>
     </figure>
-    <figure class="click-card">
+    <figure class="click-item">
       <img class="click-photo" src="{{ '/assets/images/clicks/upload-your-photo.svg' | relative_url }}" alt="Gallery placeholder image" loading="lazy">
-      <figcaption>Use descriptive names like <code>nyc-skyline.jpg</code> or <code>sunset-road.webp</code>.</figcaption>
+      <figcaption class="click-overlay">
+        <h3>Add title</h3>
+        <p>Add location, date, and a short detail.</p>
+      </figcaption>
     </figure>
-    <figure class="click-card">
+    <figure class="click-item">
       <img class="click-photo" src="{{ '/assets/images/clicks/upload-your-photo.svg' | relative_url }}" alt="Gallery placeholder image" loading="lazy">
-      <figcaption>Add a short caption here for each picture.</figcaption>
+      <figcaption class="click-overlay">
+        <h3>Add title</h3>
+        <p>Add location, date, and a short detail.</p>
+      </figcaption>
+    </figure>
+    <figure class="click-item">
+      <img class="click-photo" src="{{ '/assets/images/clicks/upload-your-photo.svg' | relative_url }}" alt="Gallery placeholder image" loading="lazy">
+      <figcaption class="click-overlay">
+        <h3>Add title</h3>
+        <p>Add location, date, and a short detail.</p>
+      </figcaption>
+    </figure>
+    <figure class="click-item">
+      <img class="click-photo" src="{{ '/assets/images/clicks/upload-your-photo.svg' | relative_url }}" alt="Gallery placeholder image" loading="lazy">
+      <figcaption class="click-overlay">
+        <h3>Add title</h3>
+        <p>Add location, date, and a short detail.</p>
+      </figcaption>
     </figure>
   </div>
 </section>

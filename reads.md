@@ -117,7 +117,7 @@ permalink: /reads/
   <p>Follow me on Goodreads to see everything I have read.</p>
   <a
     class="goodreads-button"
-    href="https://www.goodreads.com/review/list/135963367?shelf=read"
+    href="https://www.goodreads.com/user/show/135963367-pheba-anna-philip"
     target="_blank"
     rel="noopener noreferrer"
   >

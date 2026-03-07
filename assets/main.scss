@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600&display=swap');
 @import "jekyll-theme-merlot";
 
 /* Elegant neutral theme */
@@ -203,6 +203,117 @@ a:hover {
   font-weight: 600;
 }
 
+.about-more-link {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 7px 14px;
+  border: 1px dashed var(--accent);
+  border-radius: 999px;
+  background: #fffaf2;
+}
+
+.about-story {
+  border-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.timeline-section {
+  max-width: 900px;
+  border-top: 1px solid var(--line);
+}
+
+.doodle-title {
+  font-family: "Caveat", cursive;
+  font-size: 2.7rem !important;
+  letter-spacing: 0.02em;
+  text-align: center;
+  margin-bottom: 14px !important;
+}
+
+.timeline-track {
+  position: relative;
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  padding: 24px 10px 20px;
+}
+
+.timeline-track::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 2px;
+  background: #b6d5df;
+}
+
+.timeline-event {
+  position: relative;
+  flex: 0 0 260px;
+  min-height: 350px;
+  display: grid;
+  grid-template-rows: 1fr auto 1fr;
+  z-index: 1;
+}
+
+.timeline-year {
+  grid-row: 2;
+  justify-self: center;
+  min-width: 92px;
+  padding: 12px 10px;
+  text-align: center;
+  font-weight: 600;
+  color: #284753;
+  background: #c7e0e7;
+  border: 1px solid #9ec3ce;
+  border-radius: 4px;
+}
+
+.timeline-year::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 10px;
+  height: 10px;
+  margin-left: -5px;
+  margin-top: -5px;
+  border-radius: 50%;
+  background: #9ec3ce;
+}
+
+.timeline-note {
+  background: #c7e0e7;
+  border: 1px solid #9ec3ce;
+  border-radius: 6px;
+  padding: 14px;
+  box-shadow: 0 8px 18px rgba(36, 67, 78, 0.15);
+}
+
+.timeline-event.is-top .timeline-note {
+  grid-row: 1;
+  align-self: end;
+}
+
+.timeline-event.is-bottom .timeline-note {
+  grid-row: 3;
+  align-self: start;
+}
+
+.timeline-note h3 {
+  margin: 0 0 8px;
+  color: #1d3f4b;
+  font-family: "Caveat", cursive;
+  font-size: 1.7rem;
+}
+
+.timeline-note p {
+  margin: 0;
+  color: #2f4f59;
+  line-height: 1.55;
+}
+
 .reading-list {
   margin: 0;
   padding-left: 20px;
@@ -335,34 +446,68 @@ a:hover {
   line-height: 1.7;
 }
 
-.clicks-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 18px;
+.clicks-flow {
+  column-count: 3;
+  column-gap: 14px;
 }
 
-.click-card {
-  margin: 0;
-  background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: 4px;
+.click-item {
+  margin: 0 0 14px;
+  break-inside: avoid;
+  position: relative;
   overflow: hidden;
+  border-radius: 6px;
+  border: 1px solid var(--line);
+  background: var(--surface);
   box-shadow: 0 8px 20px rgba(31, 27, 23, 0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
 .click-photo {
   display: block;
   width: 100%;
-  aspect-ratio: 4 / 3;
+  height: auto;
   object-fit: cover;
   background: #efe6d8;
+  transition: filter 0.25s ease;
 }
 
-.click-card figcaption {
-  padding: 12px;
-  color: var(--muted);
-  line-height: 1.6;
-  font-size: 0.95rem;
+.click-overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 14px 12px;
+  background: linear-gradient(to top, rgba(20, 17, 13, 0.86), rgba(20, 17, 13, 0.15));
+  color: #fff;
+  transform: translateY(100%);
+  transition: transform 0.25s ease;
+}
+
+.click-overlay h3 {
+  margin: 0 0 4px;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.35rem;
+}
+
+.click-overlay p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.click-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 16px 30px rgba(31, 27, 23, 0.2);
+}
+
+.click-item:hover .click-photo {
+  filter: brightness(0.75);
+}
+
+.click-item:hover .click-overlay {
+  transform: translateY(0);
 }
 
 .work-intro {
@@ -483,5 +628,24 @@ a:hover {
 
   .work-columns {
     grid-template-columns: 1fr;
+  }
+
+  .clicks-flow {
+    column-count: 2;
+  }
+
+  .timeline-track {
+    gap: 14px;
+  }
+
+  .timeline-event {
+    flex-basis: 230px;
+    min-height: 330px;
+  }
+}
+
+@media (max-width: 540px) {
+  .clicks-flow {
+    column-count: 1;
   }
 }
