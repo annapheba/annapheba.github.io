@@ -5,7 +5,7 @@ permalink: /writes/the-first-one/
 ---
 
 <div class="hero">
-  <p class="hero-kicker">Draft article</p>
+  <p class="hero-kicker">March 7, 2026</p>
   <h1>The first one</h1>
   <p class="hero-subtitle">This is a placeholder page. You can add your full article here later.</p>
 </div>

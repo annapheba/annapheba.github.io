@@ -7,12 +7,12 @@ permalink: /works/
 <div class="hero">
   <p class="hero-kicker">Work, leadership, and growth</p>
   <h1>Works</h1>
-  <p class="hero-subtitle">A snapshot of what I do, what I value, and what I am building.</p>
+  <p class="hero-subtitle">A snapshot of what I do at work, what I value, and what I am building.</p>
 </div>
 
 <section class="about-section">
   <div class="work-intro">
-    <p>7+ years of experience with a learning mindset, building human-centric product experiences across strategy, research, and execution.</p>
+    <p>Senior Product Manager at Microsoft. </n> 7+ years of experience with a learning mindset, building human-centric product experiences across strategy, research, and execution.</p>
     <p><strong>Key strengths</strong></p>
     <div class="chip-row">
       <span class="work-chip">Customer Obsession</span>

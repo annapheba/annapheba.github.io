@@ -14,8 +14,8 @@ permalink: /clicks/
   <h2>Gallery</h2>
   <div class="clicks-grid">
     <figure class="click-card">
-      <img class="click-photo" src="{{ '/assets/images/clicks/upload-your-photo.svg' | relative_url }}" alt="Gallery placeholder image" loading="lazy">
-      <figcaption>Drop your photo into <code>assets/images/clicks/</code> and replace this source path.</figcaption>
+      <img class="click-photo" src="{{'assets\images\clicks\PHRO2331.jpg' | relative_url }}" alt="Gallery placeholder image" loading="lazy">
+      <figcaption> The Oculus.</figcaption>
     </figure>
     <figure class="click-card">
       <img class="click-photo" src="{{ '/assets/images/clicks/upload-your-photo.svg' | relative_url }}" alt="Gallery placeholder image" loading="lazy">

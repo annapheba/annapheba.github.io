@@ -14,7 +14,7 @@ permalink: /travels/
   <h2>Travel Log</h2>
   <div class="travel-grid">
     <article class="travel-card">
-      <h3>USA Oct 2024</h3>
+      <h3>USA | Oct 2024</h3>
       <p>Notes, snapshots, and moments from my October 2024 trip.</p>
     </article>
   </div>
