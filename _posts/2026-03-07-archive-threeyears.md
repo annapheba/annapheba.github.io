@@ -6,12 +6,12 @@ permalink: /writes/archive-threeyears/
 
 <div class="hero">
   <p class="hero-kicker">June 2021</p>
-  <h1>Three years at Microsoft</h1>
-  <p class="hero-subtitle">"Perseverance and living a dream"</p>
+  <h1>Seizing the opporutiity</h1>
+  <p class="hero-subtitle">About perseverance and living a dream</p>
 </div>
 
 <section class="about-section">
-  <p>Four years ago someone took a chance on me and today marks my 3 years at Microsoft as a Program Manager. :') <br> <br>
+  <p>Four years ago someone took a chance on me and today marks my 3 years at Microsoft as a Product Manager. :') <br> <br>
 
 I have a thing with such dates, you know, the special ones - the life altering days. I get happily overwhelmed with the immense gratitude to the people who made it happen. Today, that feeling is motivating my urge to write, after years. So pardon the diversion from the topic and all the mistakes I am going to make here. I am so out of touch and I have written probably only emails over past few years. LOL! <br> <br>
 
