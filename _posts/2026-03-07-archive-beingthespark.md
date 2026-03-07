@@ -15,11 +15,11 @@ permalink: /writes/archive-beingthespark/
 
 My phone beeps and the notification light blinks.<br><br>
 
-“Dear MADster,<br><br>
+<i>“Dear MADster,<br><br>
 
 Yes, you heard that right. I said MADster.<br><br>
 
-Congratulations and welcome to the MAD family. We are pleased to confirm that you have been selected for the Ed Support Program as a teaching volunteer.”<br><br>
+Congratulations and welcome to the MAD family. We are pleased to confirm that you have been selected for the Ed Support Program as a teaching volunteer.”</i><br><br>
 
 Wow.<br><br>
 
@@ -33,7 +33,7 @@ Once the classes began, I realized that the task at hand was not an easy one. Le
 
 MAD has helped me to widen my horizons and to help me view the different perspectives of life. Planning and review sessions before and after each class gave new ideas and problem solving capabilities. Dream Camps turned out to be an experience beyond words. In here, I have met some amazing people too and made friends for life! The three values which MAD believes in are Leadership through Ownership, Cause above Self and Sense of Family and we have real instances of them. Each of us has had our own share of awe filling moments and happiness. We have come together for a common cause and it makes the all the more bond stronger.<br><br>
 
-In the words of Anurag Pramod, one of our volunteers, “When I think of MAD, the thought that comes to mind first is that of that smile on their (children’s) faces – that smile they have when they see their teacher coming for class, even though they may not show it, that excitement they feel, even though they may deny it. We are working towards a bigger end. And we have a long way to go before we get there. What really makes the journey worth it, is, as my friend said, being able to tell the kids that you will be there, next week too, and watch their eyes light up.”<br><br>
+In the words of Anurag Pramod, one of our volunteers, <i>“When I think of MAD, the thought that comes to mind first is that of that smile on their (children’s) faces – that smile they have when they see their teacher coming for class, even though they may not show it, that excitement they feel, even though they may deny it. We are working towards a bigger end. And we have a long way to go before we get there. What really makes the journey worth it, is, as my friend said, being able to tell the kids that you will be there, next week too, and watch their eyes light up.”</i><br><br>
 
 My kids smile and come running to me and hug me each time they see me. They may not have the slightest interest to sit and study at times but they do come up with compromises, because they understand I’m there just for them. At the end of disappointing classes when I could just teach how to spell a word or two, they’d come up to me and say, “Chechi, innu mood ilaayrunnu. Adutha classil nalla kuttykal aaytt padikaame. Promise!”[Next class we’ll be good children and study well, Promise!] and whether they kept it or not, that was enough for me to head back to them the next weekend with new activities planned. The difference made may be too small to notice but giving it a try is what matters. It’s been a year since I have been inducted as an English teacher in the Trivandrum chapter of MAD and I owe it to my best friend, Vivin, from whom I came to know about MAD, Nikhil, my senior at school who inspired me to be a part of the organisation and Appa and Amma for letting me do this.<br><br>
 
