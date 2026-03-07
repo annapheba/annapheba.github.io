@@ -20,11 +20,6 @@ title: Home
     <p>Personal reflections, random ideas, and things I discover along the way.</p>
     <a href="#latest-posts">Browse posts →</a>
   </article>
-  <article class="highlight-item">
-    <h3>Stay Connected</h3>
-    <p>Come back often for fresh posts and updates from my blogging journey.</p>
-    <a href="/">Visit again →</a>
-  </article>
 </section>
 
 <section id="writes" class="latest-posts">
@@ -55,6 +50,7 @@ title: Home
   <div class="section-heading">
     <h2>Reads</h2>
     <p>Books, essays, and pieces that stay with me.</p>
+    <a href="/reads/">View reading list →</a>
   </div>
 </section>
 
