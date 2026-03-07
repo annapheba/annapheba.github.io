@@ -25,31 +25,22 @@ permalink: /writes/
 
 <section class="about-section">
   <h2>Archive</h2>
-  <div class="write-grid">
-        <article class="write-card">
-       <p class="hero-kicker"> June 2021</p>
-      <h3><a href="{% post_url 2026-03-07-archive-thankyouieee %}">Three years</a></h3>
-      <p>Today marks my 3 years at Microsoft as a Program Manager.</p>
-      <a href="{% post_url 2026-03-07-archive-thankyouieee %}">Open →</a>
-    </article>
-        <article class="write-card">
-       <p class="hero-kicker"> April 2018</p>
-      <h3><a href="{% post_url 2026-03-07-archive-thankyouieee %}">Thankyou, IEEE!</a></h3>
-      <p>A note of gratitude from my student chapter journey.</p>
-      <a href="{% post_url 2026-03-07-archive-thankyouieee %}">Open →</a>
-    </article>
-    <article class="write-card">
-      <p class="hero-kicker"> June 2016</p>
-      <h3><a href="{% post_url 2026-03-07-archive-beingthespark %}">Being the spark</a></h3>
-      <p>A reflection from June 2016.</p>
-      <a href="{% post_url 2026-03-07-archive-beingthespark %}">Open →</a>
-    </article>
-    <article class="write-card">
-        <p class="hero-kicker"> April 2016</p>
-      <h3><a href="{% post_url 2026-03-07-archive-lifeisatale %}">Life is a tale</a></h3>
-      <p>A terribly tiny tale from April 2016.</p>
-      <a href="{% post_url 2026-03-07-archive-lifeisatale %}">Open →</a>
-    </article>
-
-  </div>
+  <ul class="archive-list">
+    <li>
+      <a href="{% post_url 2026-03-07-archive-thankyouieee %}">Three years</a>
+      <span class="archive-date">June 2021</span>
+    </li>
+    <li>
+      <a href="{% post_url 2026-03-07-archive-thankyouieee %}">Thankyou, IEEE!</a>
+      <span class="archive-date">April 2018</span>
+    </li>
+    <li>
+      <a href="{% post_url 2026-03-07-archive-beingthespark %}">Being the spark</a>
+      <span class="archive-date">June 2016</span>
+    </li>
+    <li>
+      <a href="{% post_url 2026-03-07-archive-lifeisatale %}">Life is a tale</a>
+      <span class="archive-date">April 2016</span>
+    </li>
+  </ul>
 </section>
