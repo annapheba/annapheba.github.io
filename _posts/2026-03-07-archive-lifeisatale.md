@@ -7,7 +7,7 @@ permalink: /writes/archive-lifeisatale/
 <div class="hero">
   <p class="hero-kicker">April 2016</p>
   <h1>Life is a tale, a terribly tiny tale</h1>
-  <p class="hero-subtitle">This is the end”, yelled the situation. The heart whispered to the mind, “Remember why you started.” <br>- TTT</p>
+  <p class="hero-subtitle">"This is the end”, yelled the situation. The heart whispered to the mind, “Remember why you started.” <br>- TTT</p>
 </div>
 
 <section class="about-section">
