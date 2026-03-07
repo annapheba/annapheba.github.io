@@ -59,6 +59,56 @@ permalink: /reads/
       <p class="book-title">Silent Patient</p>
       <p class="book-author">Alex Michaelides</p>
     </article>
+    <article class="book-card">
+      <img
+        class="book-thumb"
+        src="https://covers.openlibrary.org/b/isbn/9789354893985-M.jpg"
+        alt="Cover of Desperately Seeking Shah Rukh by Shrayana Bhattacharya"
+        loading="lazy"
+      >
+      <p class="book-title">Desperately Seeking Shah Rukh</p>
+      <p class="book-author">Shrayana Bhattacharya</p>
+    </article>
+    <article class="book-card">
+      <img
+        class="book-thumb"
+        src="https://covers.openlibrary.org/b/isbn/9781401323254-M.jpg"
+        alt="Cover of The Last Lecture by Randy Pausch"
+        loading="lazy"
+      >
+      <p class="book-title">The Last Lecture</p>
+      <p class="book-author">Randy Pausch</p>
+    </article>
+    <article class="book-card">
+      <img
+        class="book-thumb"
+        src="https://covers.openlibrary.org/b/isbn/9781524763138-M.jpg"
+        alt="Cover of Becoming by Michelle Obama"
+        loading="lazy"
+      >
+      <p class="book-title">Becoming</p>
+      <p class="book-author">Michelle Obama</p>
+    </article>
+    <article class="book-card">
+      <img
+        class="book-thumb"
+        src="https://covers.openlibrary.org/b/isbn/9780143416330-M.jpg"
+        alt="Cover of Aadujeevitham by Benyamin"
+        loading="lazy"
+      >
+      <p class="book-title">Aadujeevitham</p>
+      <p class="book-author">Benyamin</p>
+    </article>
+    <article class="book-card">
+      <img
+        class="book-thumb"
+        src="https://covers.openlibrary.org/b/isbn/9781476738024-M.jpg"
+        alt="Cover of A Man Called Ove by Fredrik Backman"
+        loading="lazy"
+      >
+      <p class="book-title">A Man Called Ove</p>
+      <p class="book-author">Fredrik Backman</p>
+    </article>
   </div>
 </section>
 
