@@ -1,6 +1,6 @@
 <section class="hero">
   <p class="hero-kicker">A journal of ideas and quiet moments</p>
-  <h1>Hi, I'm Pheba 🌸</h1>
+  <h1>Hi, I'm Pheba Anna Philip 🌸</h1>
   <p class="hero-subtitle">I write about life, creativity, and the beauty of ordinary days.</p>
   <div class="hero-actions">
     <a class="button" href="/about/">Get to Know Me</a>
