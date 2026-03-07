@@ -423,6 +423,22 @@ body {
   line-height: 1.7;
 }
 
+.write-quote {
+  margin: 0 auto 6px;
+  max-width: 580px;
+  color: #3f3429;
+  font-style: italic;
+  line-height: 1.8;
+}
+
+.write-quote-credit {
+  margin: 0 0 10px;
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
 .clicks-flow {
   column-count: 3;
   column-gap: 14px;

@@ -7,6 +7,10 @@ permalink: /writes/
 <div class="hero">
   <p class="hero-kicker">Words in progress</p>
   <h1>Writes</h1>
+  <p class="write-quote">"It's only words,<br>
+  And words are all I have,<br>
+  To take your heart away"</p>
+  <p class="write-quote-credit">- Words by Bee Gees</p>
   <p class="hero-subtitle">A collection of memories, thoughts and reflections.</p>
 </div>
 
@@ -25,19 +29,19 @@ permalink: /writes/
   <h2>Archive</h2>
   <div class="write-grid">
     <article class="write-card">
-      <h3><a href="{% post_url 2026-03-08-archive-draft-01 %}">Archive draft 01</a></h3>
-      <p>A placeholder draft page for an archived article idea.</p>
-      <a href="{% post_url 2026-03-08-archive-draft-01 %}">Open →</a>
+      <h3><a href="{% post_url 2026-03-08-archive-beingthespark %}">Being the spark</a></h3>
+      <p>A reflection from June 2016.</p>
+      <a href="{% post_url 2026-03-08-archive-beingthespark %}">Open →</a>
     </article>
     <article class="write-card">
-      <h3><a href="{% post_url 2026-03-09-archive-draft-02 %}">Archive draft 02</a></h3>
-      <p>A placeholder draft page for an archived article idea.</p>
-      <a href="{% post_url 2026-03-09-archive-draft-02 %}">Open →</a>
+      <h3><a href="{% post_url 2026-03-09-archive-lifeisatale %}">Life is a tale</a></h3>
+      <p>A terribly tiny tale from April 2016.</p>
+      <a href="{% post_url 2026-03-09-archive-lifeisatale %}">Open →</a>
     </article>
     <article class="write-card">
-      <h3><a href="{% post_url 2026-03-10-archive-draft-03 %}">Archive draft 03</a></h3>
-      <p>A placeholder draft page for an archived article idea.</p>
-      <a href="{% post_url 2026-03-10-archive-draft-03 %}">Open →</a>
+      <h3><a href="{% post_url 2026-03-10-archive-thankyouieee %}">Thankyou IEEE GECBH</a></h3>
+      <p>A note of gratitude from my student chapter journey.</p>
+      <a href="{% post_url 2026-03-10-archive-thankyouieee %}">Open →</a>
     </article>
   </div>
 </section>
