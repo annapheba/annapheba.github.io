@@ -11,7 +11,6 @@ permalink: /writes/archive-lifeisatale/
 </div>
 
 <section class="about-section">
-  <h2>Coming Soon</h2>
   <p>Article published in College Magazine 2016 of Govt. Engineering College, Barton Hill, Trivandrum <br><br>
 
 <b> [Disclaimer: There is nothing poetic or artistic in this article. The title was an illusion created so that you start reading out of that curiosity. This is a report on a workshop, and I believe you are as allergic to reports as I am. I’ve tried to give this a non-report-ish look as possible. And thank you for not going back yet. Here I am waiting for the right words to come in to convey what I mean to. And I start before you lose your patience and I lose your interest.] </b> <br> <br>
