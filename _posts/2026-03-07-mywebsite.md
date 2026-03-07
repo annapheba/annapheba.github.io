@@ -11,8 +11,9 @@ permalink: /writes/mywebsite/
 </div>
 
 <section class="about-section">
-  <h2>Welcome to the 12,573,893rd version of my website!</h2>
-  <p>I built my first website in 2017 — a one-pager with some icons and my resume to impress employers. Today, I wanted a platform simply to write. <br> <br>
+<h2>Welcome to the 12,573,893rd version of my website!</h2>
+ 
+<p>I built my first website in 2017 — a one-pager with some icons and my resume to impress employers. Today, I wanted a platform simply to write. <br> <br>
 
 <h3>History</h3>
 
@@ -42,5 +43,5 @@ With how easy it has become to create and host a website, and make it look howev
 
 To note down things I feel like writing. I hope and pray this time it sticks, that I continue to capture a sudden spark, a memory, a funny thing that happened, or anything that made me think. That I put it here, and years later come back and find it again.Or maybe, in the future, another person like you will stumble upon it and wonder: <br> <br>
 
-<b>This was totally unnecessary..."</b></p>
+<b>This was totally unnecessary...</b></p>
 </section>
