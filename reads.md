@@ -13,6 +13,16 @@ permalink: /reads/
 <section class="about-section">
   <h2>Currently Reading</h2>
   <ul class="reading-list">
-    <li><strong>The wedding peopl</strong> by Alison Espach</li>
+    <li class="reading-item">
+      <img
+        class="book-thumb"
+        src="https://covers.openlibrary.org/b/isbn/9781250899573-M.jpg"
+        alt="Cover of The Wedding People by Alison Espach"
+        loading="lazy"
+      >
+      <div>
+        <strong>The wedding people</strong> by Alison Espach
+      </div>
+    </li>
   </ul>
 </section>

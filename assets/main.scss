@@ -209,6 +209,24 @@ a:hover {
   line-height: 1.75;
 }
 
+.reading-item {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-left: -20px;
+}
+
+.book-thumb {
+  width: 58px;
+  height: 86px;
+  object-fit: cover;
+  border-radius: 3px;
+  border: 1px solid var(--line);
+  box-shadow: 0 6px 14px rgba(31, 27, 23, 0.12);
+  background: var(--surface);
+}
+
 .post-entry {
   max-width: 760px;
   margin: 0 auto;
@@ -245,5 +263,9 @@ a:hover {
 
   .about-section h2 {
     font-size: 1.75rem;
+  }
+
+  .reading-item {
+    margin-left: -16px;
   }
 }
