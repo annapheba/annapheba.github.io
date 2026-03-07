@@ -5,7 +5,7 @@ permalink: /writes/archive-thankyouieee/
 ---
 
 <div class="hero">
-  <p class="hero-kicker">April 2018e</p>
+  <p class="hero-kicker">April 2018</p>
   <h1>Thankyou, IEEE GECBH!</h1>
   <p class="hero-subtitle">“An engineer is incomplete without an ‘I’ and three ‘E’s - IEEE”</p>
 </div>
