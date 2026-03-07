@@ -16,9 +16,11 @@ permalink: /writes/
   <h2>Articles</h2>
   <div class="write-grid">
     <article class="write-card">
-      <h3><a href="{% post_url 2026-03-07-the-first-one %}">The first one</a></h3>
-      <p>Coming soon.</p>
-      <a href="{% post_url 2026-03-07-the-first-one %}">Open →</a>
+      <a class="write-card-link" href="{% post_url 2026-03-07-mywebsite %}">
+        <h3>My website</h3>
+        <p>Notes from the 12,573,893rd version of my website.</p>
+        <span>Open →</span>
+      </a>
     </article>
   </div>
 </section>
