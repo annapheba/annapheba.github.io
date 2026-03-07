@@ -11,7 +11,7 @@
 <section class="highlights" aria-label="Highlights">
   <article class="highlight-item">
     <h3>About Me</h3>
-    <p>A curious soul sharing stories, thoughts, and creative sparks.</p>
+    <p>I waited for the perfect space to write, then realized I just needed an honest one.</p>
     <a href="/about/">Learn more →</a>
   </article>
   <article class="highlight-item">
