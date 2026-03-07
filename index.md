@@ -1,21 +1,45 @@
-
-<div class="main-content">
-
-<div class="hero">
+<section class="hero">
+  <p class="hero-kicker">Welcome to my corner of the internet ✨</p>
   <h1>Hi, I'm Pheba 🌸</h1>
-  <p>Welcome to my page, where I ramble on about anything I like. ✨</p>
-  <a class="button" href="/about/">Get to Know Me</a>
-</div>
-
-<hr>
-
-## 🚀 Latest Posts
-
-{% for post in site.posts limit:5 %}
-  <div class="post-card">
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p>{{ post.excerpt }}</p>
+  <p class="hero-subtitle">I write about life, ideas, and little moments that make me smile.</p>
+  <div class="hero-actions">
+    <a class="button" href="/about/">Get to Know Me</a>
+    <a class="button button-outline" href="#latest-posts">Read the Blog</a>
   </div>
-{% endfor %}
+</section>
 
-</div>
+<section class="highlights" aria-label="Highlights">
+  <article class="highlight-card">
+    <h3>About Me</h3>
+    <p>A curious soul sharing stories, thoughts, and creative sparks.</p>
+    <a href="/about/">Learn more →</a>
+  </article>
+  <article class="highlight-card">
+    <h3>What I Write</h3>
+    <p>Personal reflections, random ideas, and things I discover along the way.</p>
+    <a href="#latest-posts">Browse posts →</a>
+  </article>
+  <article class="highlight-card">
+    <h3>Stay Connected</h3>
+    <p>Come back often for fresh posts and updates from my blogging journey.</p>
+    <a href="/">Visit again →</a>
+  </article>
+</section>
+
+<section id="latest-posts" class="latest-posts">
+  <div class="section-heading">
+    <h2>Latest Posts</h2>
+    <p>Fresh thoughts from the blog.</p>
+  </div>
+
+  <div class="posts-grid">
+    {% for post in site.posts limit:6 %}
+      <article class="post-card">
+        <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
+        <a class="post-link" href="{{ post.url }}">Read more →</a>
+      </article>
+    {% endfor %}
+  </div>
+</section>
