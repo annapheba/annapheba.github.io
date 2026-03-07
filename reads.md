@@ -16,7 +16,7 @@ permalink: /reads/
     <li class="reading-item">
       <img
         class="book-thumb"
-        src="https://covers.openlibrary.org/b/isbn/9781250899573-M.jpg"
+        src="{{ '/assets/images/books/the-wedding-people.jpg' | relative_url }}"
         alt="Cover of The Wedding People by Alison Espach"
         loading="lazy"
       >
