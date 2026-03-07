@@ -13,7 +13,7 @@ permalink: /writes/mywebsite/
 <section class="about-section">
 <h2>Welcome to the 12,573,893rd version of my website!</h2>
  
-<p>I built my first website in 2017 — a one-pager with some icons and my resume to impress employers. Today, I wanted a platform simply to write. <br> <br>
+<p>I built my first website in 2017 — a one-pager with some icons and my resume to impress employers. Today, I wanted a platform simply to write. <br> 
 
 <h3>History</h3>
 
