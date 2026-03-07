@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: About Me
 permalink: /about/
+hide_header: true
 ---
 
 <div class="hero">
