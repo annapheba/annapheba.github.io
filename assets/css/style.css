@@ -369,6 +369,73 @@ body {
   line-height: 1.75;
 }
 
+.article-page-shell {
+  padding: 22px 0 8px;
+}
+
+.article-page-card {
+  width: min(960px, 100%);
+  margin: 0 auto;
+  padding: clamp(26px, 4vw, 48px);
+  background: #fbfaf8;
+  border: 1px solid #ddd2c3;
+  border-radius: 8px;
+  box-shadow: 0 14px 34px rgba(29, 24, 18, 0.12);
+}
+
+.article-page-card .hero {
+  text-align: left;
+  padding: 0 0 16px;
+}
+
+.article-page-card .hero-kicker {
+  margin-bottom: 12px;
+  font-size: 1.05rem;
+  letter-spacing: 0;
+  text-transform: none;
+  color: #6f665c;
+  font-style: italic;
+}
+
+.article-page-card .hero h1 {
+  font-size: clamp(2.2rem, 5vw, 3.5rem);
+  line-height: 1.15;
+  margin-bottom: 14px;
+  color: #171410;
+}
+
+.article-page-card .hero-subtitle {
+  margin: 0;
+  max-width: 780px;
+  color: #2a241d;
+  font-size: 1.12rem;
+  line-height: 1.7;
+}
+
+.article-page-card .about-section {
+  max-width: none;
+  margin: 0;
+  padding: 8px 0 0;
+  border: 0;
+}
+
+.article-page-card .about-section h2 {
+  color: #171410;
+}
+
+.article-page-card .about-section p,
+.article-page-card .about-section li,
+.article-page-card p {
+  color: #221d17;
+  font-size: 1.06rem;
+  line-height: 1.9;
+}
+
+.article-page-card .about-section b,
+.article-page-card .about-section strong {
+  color: #171410;
+}
+
 .travel-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -641,6 +708,25 @@ a:hover {
 
   .post-row h3 {
     font-size: 1.45rem;
+  }
+
+  .article-page-shell {
+    padding-top: 8px;
+  }
+
+  .article-page-card {
+    border-radius: 6px;
+    padding: 20px 16px;
+  }
+
+  .article-page-card .hero h1 {
+    margin-bottom: 10px;
+  }
+
+  .article-page-card .about-section p,
+  .article-page-card p {
+    font-size: 1rem;
+    line-height: 1.82;
   }
 
   .about-section h2 {
