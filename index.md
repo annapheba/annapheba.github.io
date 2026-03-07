@@ -1,7 +1,7 @@
 <section class="hero">
-  <p class="hero-kicker">A journal of ideas and quiet moments</p>
+  <p class="hero-kicker">A journal to ramble through the noise and quiet moments in my head</p>
   <h1>Hi, I'm Pheba Anna Philip 🌸</h1>
-  <p class="hero-subtitle">I write about life, creativity, and the beauty of ordinary days.</p>
+  <p class="hero-subtitle">I write about my life, and the beauty of ordinary days.</p>
   <div class="hero-actions">
     <a class="button" href="/about/">Get to Know Me</a>
     <a class="button button-outline" href="#latest-posts">Read the Blog</a>
