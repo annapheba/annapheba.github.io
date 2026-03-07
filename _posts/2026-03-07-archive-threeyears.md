@@ -11,19 +11,19 @@ permalink: /writes/archive-threeyears/
 </div>
 
 <section class="about-section">
-  <p>Four years ago someone took a chance on me and today marks my 3 years at Microsoft as a Program Manager. :')
+  <p>Four years ago someone took a chance on me and today marks my 3 years at Microsoft as a Program Manager. :') <br> <br>
 
-I have a thing with such dates, you know, the special ones - the life altering days. I get happily overwhelmed with the immense gratitude to the people who made it happen. Today, that feeling is motivating my urge to write, after years. So pardon the diversion from the topic and all the mistakes I am going to make here. I am so out of touch and I have written probably only emails over past few years. LOL! 
+I have a thing with such dates, you know, the special ones - the life altering days. I get happily overwhelmed with the immense gratitude to the people who made it happen. Today, that feeling is motivating my urge to write, after years. So pardon the diversion from the topic and all the mistakes I am going to make here. I am so out of touch and I have written probably only emails over past few years. LOL! <br> <br>
 
-I still remember the chills that ran down me, like it happened yesterday, when my phone chimed with that email from Microsoft Recruiting that just said, “Congratulations! Microsoft FTE hires at GHCI” – a dream come true, or the one where it went beyond the dreams. Woohoo!
+I still remember the chills that ran down me, like it happened yesterday, when my phone chimed with that email from Microsoft Recruiting that just said, “Congratulations! Microsoft FTE hires at GHCI” – a dream come true, or the one where it went beyond the dreams. Woohoo! <br> <br>
 
-So, this story has been a puzzle to many – a not-in-the-JEE-Advanced category college in India, bachelors’ degree in a non-CS Engineering branch, the company doesn’t come for placements to this college or rather hardly any colleges in the state of Kerala and landing a Product Manager role – that’s breaking a ton of stereotypes at one go. How!?
+So, this story has been a puzzle to many – a not-in-the-JEE-Advanced category college in India, bachelors’ degree in a non-CS Engineering branch, the company doesn’t come for placements to this college or rather hardly any colleges in the state of Kerala and landing a Product Manager role – that’s breaking a ton of stereotypes at one go. How!? <br> <br>
 
-What helped me?
+What helped me? <br> <br>
 
-Seizing the opportunity helped, a random click on a scholarship application helped – the idea that I won’t lose anything even if I don’t get through this helped. Creating a brand, owning your accomplishments, pitching yourself, sought for feedback and believing in myself helped! A community of motivators and mentors helped. And the list goes on. 
+Seizing the opportunity helped, a random click on a scholarship application helped – the idea that I won’t lose anything even if I don’t get through this helped. Creating a brand, owning your accomplishments, pitching yourself, sought for feedback and believing in myself helped! A community of motivators and mentors helped. And the list goes on. <br> <br>
 
-The journey has been great, a learning experience more than anything, immersing into the growth mindset and culture the organisation stands for and shifting paradigms. I have many people to thank for, for believing in me and guiding me, inside and outside Microsoft. I am that person whom if you’d ask about work would squeal with excitement and say that I love it. Being a part of a company that works on empowering every person and organisation on the planet to achieve more is empowering in itself and I’m proud of it all.
+The journey has been great, a learning experience more than anything, immersing into the growth mindset and culture the organisation stands for and shifting paradigms. I have many people to thank for, for believing in me and guiding me, inside and outside Microsoft. I am that person whom if you’d ask about work would squeal with excitement and say that I love it. Being a part of a company that works on empowering every person and organisation on the planet to achieve more is empowering in itself and I’m proud of it all. <br> <br>
 
-I’m pretty sure the article didn’t turn out to be what you or I expected and it’s as muddled as the thoughts in my head, but it’s a good restart for me, I believe. If you are reading this and have feedback or thoughts to share, feel free to drop a message or an email.</p>
+I’m pretty sure the article didn’t turn out to be what you or I expected and it’s as muddled as the thoughts in my head, but it’s a good restart for me, I believe. If you are reading this and have feedback or thoughts to share, feel free to drop a message or an email.</p> <br> <br>
 </section>
