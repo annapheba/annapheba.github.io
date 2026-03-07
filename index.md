@@ -10,8 +10,7 @@ title: Home
 </section>
 
 <section class="about-section">
-  <h2>Who I Am</h2>
-  <p class="about-lead">Hi, I am Pheba.</p>
+  <p class="about-lead">Hi, there! Thank you for stopping by.</p>
   <p>This website is my space to talk about things that made me think twice, share a few things, and journal whatever comes to my mind. I was waiting for the perfect space to write, and then I realized I just needed to start somewhere, and here we are. Most of it might not make sense to you, but if it does, yaay. I am not entirely sure where I am going with this, but it is going to be me pouring my heart out with some human-generated content.</p>
 </section>
 

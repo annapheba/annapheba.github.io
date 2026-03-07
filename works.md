@@ -12,13 +12,12 @@ permalink: /works/
 
 <section class="about-section">
   <div class="work-intro">
-    <p>Senior Product Manager at Microsoft. </n> 7+ years of experience with a learning mindset, building human-centric product experiences across strategy, research, and execution.</p>
+    <p>Electronics & Communications engineer by degree. Product Manager by profession and passion. I strive to simplify complex problems, one feature at a time.</p>
     <p><strong>Key strengths</strong></p>
     <div class="chip-row">
       <span class="work-chip">Customer Obsession</span>
       <span class="work-chip">User Experience Design</span>
       <span class="work-chip">Cross-functional Leadership</span>
-      <span class="work-chip">AI Innovation</span>
     </div>
   </div>
 </section>
@@ -32,7 +31,7 @@ permalink: /works/
     <article class="work-card">
       <h3>Senior Product Manager</h3>
       <p class="work-meta">Microsoft</p>
-      <p>Leading strategy and reimagining tools for hiring and planning for Recruiting at scale.</p>
+      <p>Leading strategy and designing experiences for hiring and planning for Recruiting at scale.</p>
     </article>
     <article class="work-card">
       <h3>User Experience Enthusiast</h3>
@@ -49,29 +48,24 @@ permalink: /works/
 
 <section class="about-section">
   <div class="section-heading">
-    <h2>Initiatives and Commitments</h2>
-    <p>Building inclusive products and communities while driving excellence.</p>
+    <h2>What's important to me?</h2>
+    <p>Principles that guide my leadership and collaboration.</p>
   </div>
-  <div class="work-grid work-grid-4">
+  <div class="work-grid work-grid-3">
     <article class="work-card">
-      <h3>Accessibility Champion</h3>
-      <p>Award winner for Accessibility in Action, ensuring inclusive digital experiences for all users.</p>
+      <h3>Pay it Forward</h3>
+      <p>Mentoring and helping others grow through shared learning.</p>
     </article>
     <article class="work-card">
-      <h3>Diversity Advocate</h3>
-      <p>Core team member for Women ERG initiatives, advancing gender equity and inclusion.</p>
+      <h3>Gratitude</h3>
+      <p>Appreciating every chance to learn, contribute, and build with others.</p>
     </article>
     <article class="work-card">
-      <h3>PM Excellence</h3>
-      <p>Editorial contributor driving product management excellence initiatives across Microsoft.</p>
-    </article>
-    <article class="work-card">
-      <h3>AI Innovation</h3>
-      <p>Member of AI Center of Excellence, shaping practical AI solutions and best practices.</p>
+      <h3>Kindness</h3>
+      <p>Leading with empathy and compassion in every interaction.</p>
     </article>
   </div>
 </section>
-
 <section class="about-section">
   <div class="section-heading">
     <h2>Core Competencies</h2>
@@ -89,10 +83,6 @@ permalink: /works/
     <article class="work-card">
       <h3>Cross-functional Leadership</h3>
       <p>Leading teams across Engineering, Design, Business, and Marketing for smooth delivery.</p>
-    </article>
-    <article class="work-card">
-      <h3>AI Innovation & Strategy</h3>
-      <p>AI-powered job recommendations and smart sourcing tools leveraging OpenAI for Microsoft.</p>
     </article>
   </div>
 </section>
@@ -132,23 +122,3 @@ permalink: /works/
   </div>
 </section>
 
-<section class="about-section">
-  <div class="section-heading">
-    <h2>What's important to me?</h2>
-    <p>Principles that guide my leadership and collaboration.</p>
-  </div>
-  <div class="work-grid work-grid-3">
-    <article class="work-card">
-      <h3>Pay it Forward</h3>
-      <p>Mentoring and helping others grow through shared learning.</p>
-    </article>
-    <article class="work-card">
-      <h3>Gratitude</h3>
-      <p>Appreciating every chance to learn, contribute, and build with others.</p>
-    </article>
-    <article class="work-card">
-      <h3>Kindness</h3>
-      <p>Leading with empathy and compassion in every interaction.</p>
-    </article>
-  </div>
-</section>

@@ -7,7 +7,7 @@ permalink: /writes/
 <div class="hero">
   <p class="hero-kicker">Words in progress</p>
   <h1>Writes</h1>
-  <p class="hero-subtitle">A collection of essays, reflections, and stories.</p>
+  <p class="hero-subtitle">A collection of memories, thoughts and reflections.</p>
 </div>
 
 <section class="about-section">
