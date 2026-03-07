@@ -17,7 +17,7 @@ permalink: /writes/mywebsite/
 
 <h3>History</h3>
 
-It all started in 2017, a week before I was traveling to attend the Grace Hopper Celebration India. There was a career fair to attend, and I was preparing my resume for the first time ever. Then my dear mentor, <a href="[Arya Murali](https://aryamurali.com/)">Arya Murali</a>, asked me, <i> "How are you going to stand out among the thousands of people there with the same background?" </i> <br> <br>
+It all started in 2017, a week before I was traveling to attend the Grace Hopper Celebration India. There was a career fair to attend, and I was preparing my resume for the first time ever. Then my dear mentor, <a href="https://aryamurali.com">Arya Murali</a>, asked me, <i> "How are you going to stand out among the thousands of people there with the same background?" </i> <br> <br>
 
 Gah, I don't know. I thought I was smart. <br> <br>
 
