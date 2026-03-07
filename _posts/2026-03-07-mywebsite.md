@@ -11,7 +11,7 @@ permalink: /writes/mywebsite/
 </div>
 
 <section class="about-section">
-<h2>Welcome to the 12,573,893rd version of my website!</h2>
+<h2>Welcome to the 12th million version of my website!</h2>
  
 <p>I built my first website in 2017 — a one-pager with some icons and my resume to impress employers. Today, I wanted a platform simply to write. <br> 
 
