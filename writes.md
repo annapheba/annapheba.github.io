@@ -5,7 +5,7 @@ permalink: /writes/
 ---
 
 <div class="hero">
-  <p class="hero-kicker">It's only words,<br>
+  <p class="hero-kicker">"It's only words,<br>
   And words are all I have,<br>
   To take your heart away"</p>
   <h1>Writes</h1>
