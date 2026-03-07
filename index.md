@@ -41,7 +41,7 @@
 
 <section id="cicks" class="topic-section">
   <div class="section-heading">
-    <h2>Cicks</h2>
+    <h2>Clicks</h2>
     <p>Moments captured one frame at a time.</p>
   </div>
 </section>
