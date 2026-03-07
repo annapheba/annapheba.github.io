@@ -29,19 +29,19 @@ permalink: /writes/
   <h2>Archive</h2>
   <div class="write-grid">
     <article class="write-card">
-      <h3><a href="{% post_url 2026-03-08-archive-beingthespark %}">Being the spark</a></h3>
+      <h3><a href="{% post_url 2026-03-07-archive-beingthespark %}">Being the spark</a></h3>
       <p>A reflection from June 2016.</p>
-      <a href="{% post_url 2026-03-08-archive-beingthespark %}">Open →</a>
+      <a href="{% post_url 2026-03-07-archive-beingthespark %}">Open →</a>
     </article>
     <article class="write-card">
-      <h3><a href="{% post_url 2026-03-09-archive-lifeisatale %}">Life is a tale</a></h3>
+      <h3><a href="{% post_url 2026-03-07-archive-lifeisatale %}">Life is a tale</a></h3>
       <p>A terribly tiny tale from April 2016.</p>
-      <a href="{% post_url 2026-03-09-archive-lifeisatale %}">Open →</a>
+      <a href="{% post_url 2026-03-07-archive-lifeisatale %}">Open →</a>
     </article>
     <article class="write-card">
-      <h3><a href="{% post_url 2026-03-10-archive-thankyouieee %}">Thankyou IEEE GECBH</a></h3>
+      <h3><a href="{% post_url 2026-03-07-archive-thankyouieee %}">Thankyou IEEE GECBH</a></h3>
       <p>A note of gratitude from my student chapter journey.</p>
-      <a href="{% post_url 2026-03-10-archive-thankyouieee %}">Open →</a>
+      <a href="{% post_url 2026-03-07-archive-thankyouieee %}">Open →</a>
     </article>
   </div>
 </section>

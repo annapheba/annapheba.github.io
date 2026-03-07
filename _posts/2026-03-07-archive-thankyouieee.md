@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Thankyou IEEE GECBH 
-permalink: /writes/archive-draft-03/
+permalink: /writes/archive-thankyouieee/
 ---
 
 <div class="hero">
-  <p class="hero-kicker">Draft article</p>
-  <h1>Archive draft 03</h1>
+  <p class="hero-kicker">Archive note</p>
+  <h1>Thankyou IEEE GECBH</h1>
   <p class="hero-subtitle">Use this page to write your archived article later.</p>
 </div>
 
