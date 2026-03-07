@@ -27,7 +27,7 @@ permalink: /writes/
   <h2>Archive</h2>
   <ul class="archive-list">
     <li>
-      <a href="{% post_url 2026-03-07-archive-thankyouieee %}">Three years</a>
+      <a href="{% post_url 2026-03-07-archive-threeyears %}">Three years</a>
       <span class="archive-date">June 2021</span>
     </li>
     <li>
