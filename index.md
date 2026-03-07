@@ -5,20 +5,20 @@ title: Home
 
 <section class="hero">
   <p class="hero-kicker">A journal to ramble through the noise and quiet moments in my head</p>
-  <h1>Hi, I'm Pheba Anna Philip 🌸</h1>
+  <h1>Hi, I'm Pheba <span class="anna-highlight">Anna</span> Philip 🌸</h1>
   <p class="hero-subtitle">I write about my life, and the beauty of ordinary days.</p>
 </section>
 
 <section class="highlights" aria-label="Highlights">
   <article class="highlight-item">
     <h3>About Me</h3>
-    <p>I waited for the perfect space to write, then realized I just needed an honest one.</p>
+    <p>Know who I am, and what I am trying to do here.</p>
     <a href="/about/">Learn more →</a>
   </article>
   <article class="highlight-item">
     <h3>What I Write</h3>
     <p>Personal reflections, random ideas, and things I discover along the way.</p>
-    <a href="#latest-posts">Browse posts →</a>
+    <a href="/writes/">Browse posts →</a>
   </article>
 </section>
 
@@ -26,6 +26,7 @@ title: Home
   <div class="section-heading">
     <h2>Writes</h2>
     <p>Fresh thoughts from the blog.</p>
+    <a href="/writes/">View all writing →</a>
   </div>
 
   <div class="post-list">
@@ -54,9 +55,17 @@ title: Home
   </div>
 </section>
 
+<section id="works" class="topic-section">
+  <div class="section-heading">
+    <h2>Works</h2>
+    <p>Things I am building, learning, and growing through in my work and career.</p>
+  </div>
+</section>
+
 <section id="travels" class="topic-section">
   <div class="section-heading">
     <h2>Travels</h2>
     <p>Places, routes, and reflections from the road.</p>
+    <a href="/travels/">View travel log →</a>
   </div>
 </section>

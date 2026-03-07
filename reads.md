@@ -26,3 +26,16 @@ permalink: /reads/
     </li>
   </ul>
 </section>
+
+<section class="about-section goodreads-section">
+  <h2>Goodreads</h2>
+  <p>Follow me on Goodreads to see everything I have read.</p>
+  <a
+    class="goodreads-button"
+    href="https://www.goodreads.com/review/list/135963367?shelf=read"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Follow on Goodreads
+  </a>
+</section>
