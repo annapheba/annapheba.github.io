@@ -7,7 +7,7 @@ permalink: /clicks/
 <div class="hero">
   <p class="hero-kicker">Frames from my world</p>
   <h1>Clicks</h1>
-  <p class="hero-subtitle">A gallery of moments I captured. Upload your images to <code>assets/images/clicks/</code> and update these cards.</p>
+  <p class="hero-subtitle">A gallery of moments I captured.</p>
 </div>
 
 <section class="about-section">
