@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 <section class="hero">
   <p class="hero-kicker">A journal to ramble through the noise and quiet moments in my head</p>
   <h1>Hi, I'm Pheba Anna Philip 🌸</h1>
@@ -39,7 +44,7 @@
   </div>
 </section>
 
-<section id="cicks" class="topic-section">
+<section id="clicks" class="topic-section">
   <div class="section-heading">
     <h2>Clicks</h2>
     <p>Moments captured one frame at a time.</p>
