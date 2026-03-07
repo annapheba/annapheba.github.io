@@ -12,19 +12,54 @@ permalink: /reads/
 
 <section class="about-section">
   <h2>Currently Reading</h2>
-  <ul class="reading-list">
-    <li class="reading-item">
+  <div class="book-grid">
+    <article class="book-card">
       <img
         class="book-thumb"
         src="{{ '/assets/images/books/the-wedding-people.jpg' | relative_url }}"
         alt="Cover of The Wedding People by Alison Espach"
         loading="lazy"
       >
-      <div>
-        <strong>The wedding people</strong> by Alison Espach
-      </div>
-    </li>
-  </ul>
+      <p class="book-title">The wedding people</p>
+      <p class="book-author">Alison Espach</p>
+    </article>
+  </div>
+</section>
+
+<section class="about-section">
+  <h2>I think you should read these</h2>
+  <div class="book-grid">
+    <article class="book-card">
+      <img
+        class="book-thumb"
+        src="https://covers.openlibrary.org/b/isbn/9780802162175-M.jpg"
+        alt="Cover of The Covenant of Water by Abraham Verghese"
+        loading="lazy"
+      >
+      <p class="book-title">Covenant of water</p>
+      <p class="book-author">Abraham Verghese</p>
+    </article>
+    <article class="book-card">
+      <img
+        class="book-thumb"
+        src="https://covers.openlibrary.org/b/isbn/9781501160837-M.jpg"
+        alt="Cover of Anxious People by Fredrik Backman"
+        loading="lazy"
+      >
+      <p class="book-title">Anxious People</p>
+      <p class="book-author">Fredrik Backman</p>
+    </article>
+    <article class="book-card">
+      <img
+        class="book-thumb"
+        src="https://covers.openlibrary.org/b/isbn/9781250301697-M.jpg"
+        alt="Cover of The Silent Patient by Alex Michaelides"
+        loading="lazy"
+      >
+      <p class="book-title">Silent Patient</p>
+      <p class="book-author">Alex Michaelides</p>
+    </article>
+  </div>
 </section>
 
 <section class="about-section goodreads-section">

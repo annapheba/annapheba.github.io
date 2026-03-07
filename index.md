@@ -4,9 +4,9 @@ title: Home
 ---
 
 <section class="hero">
-  <p class="hero-kicker">A journal to ramble through the noise and quiet moments in my head</p>
+  <p class="hero-kicker">A journal where I ramble through the noise and the quiet moments in my head.</p>
   <h1>Hi, I'm Pheba <span class="anna-highlight">Anna</span> Philip 🌸</h1>
-  <p class="hero-subtitle">I write about my life, and the beauty of ordinary days.</p>
+  <p class="hero-subtitle">I write about my life, memories, and the beauty of ordinary days.</p>
 </section>
 
 <section class="highlights" aria-label="Highlights">
@@ -44,6 +44,7 @@ title: Home
   <div class="section-heading">
     <h2>Clicks</h2>
     <p>Moments captured one frame at a time.</p>
+    <a href="/clicks/">View gallery →</a>
   </div>
 </section>
 

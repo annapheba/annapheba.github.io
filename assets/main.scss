@@ -213,22 +213,40 @@ a:hover {
   line-height: 1.75;
 }
 
-.reading-item {
-  list-style: none;
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  margin-left: -20px;
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 18px;
 }
 
 .book-thumb {
-  width: 58px;
-  height: 86px;
+  width: 128px;
+  height: 190px;
   object-fit: cover;
   border-radius: 3px;
   border: 1px solid var(--line);
   box-shadow: 0 6px 14px rgba(31, 27, 23, 0.12);
   background: var(--surface);
+}
+
+.book-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.book-title {
+  margin: 10px 0 2px;
+  color: #1f1b17 !important;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.book-author {
+  margin: 0;
+  color: var(--muted) !important;
+  font-size: 0.95rem;
 }
 
 .goodreads-section p {
@@ -317,6 +335,36 @@ a:hover {
   line-height: 1.7;
 }
 
+.clicks-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 18px;
+}
+
+.click-card {
+  margin: 0;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(31, 27, 23, 0.08);
+}
+
+.click-photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  background: #efe6d8;
+}
+
+.click-card figcaption {
+  padding: 12px;
+  color: var(--muted);
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
 @media (max-width: 700px) {
   .main-content {
     padding: 24px 18px 44px;
@@ -344,7 +392,7 @@ a:hover {
     font-size: 1.75rem;
   }
 
-  .reading-item {
-    margin-left: -16px;
+  .book-grid {
+    grid-template-columns: repeat(2, minmax(120px, 1fr));
   }
 }
