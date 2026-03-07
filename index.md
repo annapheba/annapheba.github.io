@@ -60,6 +60,7 @@ title: Home
   <div class="section-heading">
     <h2>Works</h2>
     <p>Things I am building, learning, and growing through in my work and career.</p>
+    <a href="/works/">View work profile →</a>
   </div>
 </section>
 

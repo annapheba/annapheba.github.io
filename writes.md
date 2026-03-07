@@ -14,9 +14,9 @@ permalink: /writes/
   <h2>Articles</h2>
   <div class="write-grid">
     <article class="write-card">
-      <h3><a href="/writes/the-first-one/">The first one</a></h3>
+      <h3><a href="{% post_url 2026-03-07-the-first-one %}">The first one</a></h3>
       <p>A placeholder for my first blog article.</p>
-      <a href="/writes/the-first-one/">Open draft page →</a>
+      <a href="{% post_url 2026-03-07-the-first-one %}">Open draft page →</a>
     </article>
   </div>
 </section>
