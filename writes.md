@@ -19,7 +19,7 @@ permalink: /writes/
       <a class="write-card-link" href="{% post_url 2026-03-07-mywebsite %}">
         <p class="hero-kicker"> 7 March 2026 </p>
         <h3>Evolution of my website.</h3>
-        <p>Notes from a website I keep coming back to.</p>
+        <p>Welcome to the 12th million version of my website</p>
         <span>Open →</span>
       </a>
     </article>
