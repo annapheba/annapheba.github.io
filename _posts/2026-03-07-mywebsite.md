@@ -6,12 +6,11 @@ permalink: /writes/mywebsite/
 
 <div class="hero">
   <p class="hero-kicker">7 March 2026</p>
-  <h1>Evolution of my Website</h1>
-  <p class="hero-subtitle">Notes from a website I keep coming back to</p>
+  <h1>Evolution of my website</h1>
+  <p class="hero-subtitle">Welcome to the 12th million version of my website</p>
 </div>
 
 <section class="about-section">
-<h2>Welcome to the 12th million version of my website!</h2>
  
 <p>I built my first website in 2017 — a one-pager with some icons and my resume to impress employers. Today, I wanted a platform simply to write. <br> 
 
@@ -39,9 +38,7 @@ Maybe 2026 is the year, my friend. <br> <br>
 
 My brain has been overflowing with thoughts I wanted to dump somewhere, and I was again on the hunt for the perfect platform. I was complaining that I wanted to write but had nowhere to do it, and RJT (hey, husband) said: <i>Just write if you want to. What could possibly be blocking you from publishing some text right now? </i> <br> <br>
 
-With how easy it has become to create and host a website, and make it look however I want, using ChatGPT, VS Code, GitHub Copilot, and GitHub Pages, I had no excuses. So today, I decided to start again. <br> <br>
+With how easy it has become to create and host a website, and make it look however I want, using ChatGPT, VS Code, GitHub Copilot, and GitHub Pages, I had no excuses. So today, I decided to start again, to note down things. <br> <br>
 
-To note down things I feel like writing. I hope and pray this time it sticks, that I continue to capture a sudden spark, a memory, a funny thing that happened, or anything that made me think. That I put it here, and years later come back and find it again.Or maybe, in the future, another person like you will stumble upon it and wonder: <br> <br>
-
-<b>This was totally unnecessary...</b></p>
+I hope and pray this time it sticks, that I continue to capture a sudden spark, a memory, a funny thing that happened, or anything that made me think. That I put it here, and years later come back and find it again, and smile. Or maybe, in the future, another person like you will stumble upon it and wonder who this person really was.
 </section>
