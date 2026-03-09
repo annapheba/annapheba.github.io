@@ -1,16 +1,14 @@
 ---
 layout: default
-title: My website
+title: Evolution of my website
 permalink: /writes/mywebsite/
 ---
 
 <div class="hero">
   <p class="hero-kicker">7 March 2026</p>
   <h1>Evolution of my website</h1>
-  <p class="hero-subtitle">Welcome to the 12th million version of my website</p>
+  <p class="hero-subtitle">Welcome to the 12th million version of my website :)</p>
 </div>
-
-<section class="about-section">
  
 <p>I built my first website in 2017 — a one-pager with some icons and my resume to impress employers. Today, I wanted a platform simply to write. <br> 
 
@@ -40,5 +38,4 @@ My brain has been overflowing with thoughts I wanted to dump somewhere, and I wa
 
 With how easy it has become to create and host a website, and make it look however I want, using ChatGPT, VS Code, GitHub Copilot, and GitHub Pages, I had no excuses. So today, I decided to start again, to note down things. <br> <br>
 
-I hope and pray this time it sticks, that I continue to capture a sudden spark, a memory, a funny thing that happened, or anything that made me think. That I put it here, and years later come back and find it again, and smile. Or maybe, in the future, another person like you will stumble upon it and wonder who this person really was.
-</section>
+I hope and pray this time it sticks, that I continue to capture a sudden spark, a memory, a funny thing that happened, or anything that made me think. That I put it here, and years later come back and find it again, and smile. Or maybe, in the future, another person like you will stumble upon it and wonder who this person really was.</p>
