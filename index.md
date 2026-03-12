@@ -16,6 +16,21 @@ title: Home
 </section>
 
 <section class="about-section">
+  <h2>Latest posts</h2>
+  <div class="post-list">
+    {% for post in site.posts limit: 1 %}
+    <article class="post-row">
+      <p class="post-date">{{ post.date | date: "%d %B %Y" }}</p>
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      {% if post.excerpt %}
+      <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="about-section">
   <h2>Contact</h2>
   <p>I would love to hear from you.</p>
   <p><strong>Email:</strong> <a href="mailto:phebaannaphilip@gmail.com">phebaannaphilip@gmail.com</a></p>

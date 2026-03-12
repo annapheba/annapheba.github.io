@@ -16,6 +16,7 @@ permalink: /travels/
     <article class="travel-card">
       <h3>USA | Oct 2024</h3>
       <p>Notes, snapshots, and moments from my October 2024 trip.</p>
+      <p><a class="about-more-link" href="/travels/usa-oct-2024/">View details</a></p>
     </article>
   </div>
 </section>
