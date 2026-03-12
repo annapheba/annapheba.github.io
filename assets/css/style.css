@@ -450,6 +450,14 @@ body {
   border-radius: 4px;
   padding: 18px;
   box-shadow: 0 8px 20px rgba(31, 27, 23, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.travel-card-link {
+  display: block;
+  height: 100%;
+  color: inherit;
+  text-decoration: none;
 }
 
 .travel-card h3 {
@@ -457,12 +465,23 @@ body {
   font-size: 1.5rem;
   margin: 0 0 8px;
   color: #1f1b17;
+  transition: color 0.2s ease;
 }
 
 .travel-card p {
-  margin: 0;
+  margin: 0 0 10px;
   color: var(--muted);
   line-height: 1.7;
+}
+
+.travel-card-link span {
+  color: var(--accent-deep);
+}
+
+.travel-card:hover,
+.travel-card:focus-within {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 26px rgba(31, 27, 23, 0.14);
 }
 
 .write-grid {
@@ -491,10 +510,18 @@ body {
   font-size: 1.5rem;
   margin: 0 0 8px;
   color: #1f1b17;
+  transition: color 0.2s ease;
 }
 
 .write-card-link span {
   color: var(--accent-deep);
+}
+
+.write-card-link:hover h3,
+.write-card-link:focus-visible h3,
+.travel-card-link:hover h3,
+.travel-card-link:focus-visible h3 {
+  color: #2563eb;
 }
 
 .write-card p {

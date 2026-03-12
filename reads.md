@@ -8,6 +8,20 @@ permalink: /reads/
   <p class="hero-kicker">Pages I am spending time with</p>
   <h1>Reads</h1>
   <p class="hero-subtitle">A small shelf of books and writing I am currently enjoying.</p>
+  <div class="work-social-row">
+    <a
+      class="work-social-link"
+      href="https://www.goodreads.com/user/show/135963367-pheba-anna-philip"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="See everything I have read on Goodreads"
+    >
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M15.77 5.38V4h2.43v13.08h-2.43V15.7c-.94 1.15-2.43 1.85-4.04 1.85-3.15 0-5.65-2.83-5.65-6.35S8.58 4.85 11.73 4.85c1.61 0 3.1.7 4.04 1.85zm-3.7 10.08c2.22 0 3.79-1.86 3.79-4.26s-1.57-4.26-3.79-4.26c-2.22 0-3.79 1.86-3.79 4.26s1.57 4.26 3.79 4.26zM19.35 20.11c-1.02.83-2.5 1.33-4.35 1.33-2.9 0-4.98-1.1-5.83-3.11l2.2-.91c.53 1.25 1.79 1.94 3.67 1.94 1.28 0 2.25-.31 2.9-.85.67-.55 1-1.35 1-2.34v-1.31c-.94 1.09-2.37 1.74-3.96 1.74-3.03 0-5.46-2.66-5.46-6.01s2.43-6.01 5.46-6.01c1.58 0 3.02.65 3.96 1.74V4h2.34v12.14c0 1.74-.64 3.1-1.93 3.97z"/>
+      </svg>
+      <span>See everything I have read</span>
+    </a>
+  </div>
 </div>
 
 <section class="about-section">
@@ -16,12 +30,12 @@ permalink: /reads/
     <article class="book-card">
       <img
         class="book-thumb"
-        src="{{ '/assets/images/books/the-wedding-people.jpg' | relative_url }}"
-        alt="Cover of The Wedding People by Alison Espach"
+        src="https://covers.openlibrary.org/b/isbn/9780670026197-M.jpg"
+        alt="Cover of A Gentleman in Moscow by Amor Towles"
         loading="lazy"
       >
-      <p class="book-title">The wedding people</p>
-      <p class="book-author">Alison Espach</p>
+      <p class="book-title">A Gentleman in Moscow</p>
+      <p class="book-author">Amor Towles</p>
     </article>
   </div>
 </section>
@@ -112,15 +126,3 @@ permalink: /reads/
   </div>
 </section>
 
-<section class="about-section goodreads-section">
-  <h2>Goodreads</h2>
-  <p>Follow me on Goodreads to see everything I have read.</p>
-  <a
-    class="goodreads-button"
-    href="https://www.goodreads.com/user/show/135963367-pheba-anna-philip"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    Follow on Goodreads
-  </a>
-</section>

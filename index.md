@@ -17,14 +17,17 @@ title: Home
 
 <section class="about-section">
   <h2>Latest posts</h2>
-  <div class="post-list">
+  <div class="write-grid">
     {% for post in site.posts limit: 1 %}
-    <article class="post-row">
-      <p class="post-date">{{ post.date | date: "%d %B %Y" }}</p>
-      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-      {% if post.excerpt %}
-      <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
-      {% endif %}
+    <article class="write-card">
+      <a class="write-card-link" href="{{ post.url | relative_url }}">
+        <p class="hero-kicker">{{ post.date | date: "%d %B %Y" }}</p>
+        <h3>{{ post.title }}</h3>
+        {% if post.excerpt %}
+        <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
+        {% endif %}
+        <span>Open -></span>
+      </a>
     </article>
     {% endfor %}
   </div>
