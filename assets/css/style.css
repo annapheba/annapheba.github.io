@@ -613,6 +613,36 @@ body {
   padding: 20px;
 }
 
+.work-social-row {
+  margin-top: 18px;
+  display: flex;
+  justify-content: center;
+}
+
+.work-social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--accent-deep);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.work-social-link svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
+
+.work-social-link:hover {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+  box-shadow: 0 8px 16px rgba(31, 27, 23, 0.12);
+}
+
 .chip-row {
   display: flex;
   flex-wrap: wrap;

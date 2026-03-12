@@ -8,6 +8,14 @@ permalink: /works/
   <p class="hero-kicker">Work, leadership, and growth</p>
   <h1>Works</h1>
   <p class="hero-subtitle">A snapshot of what I do at work, what I value, and what I am building.</p>
+  <div class="work-social-row">
+    <a class="work-social-link" href="https://www.linkedin.com/in/pheba-anna-philip/" target="_blank" rel="noopener noreferrer" aria-label="Visit my LinkedIn profile">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M20.45 20.45h-3.56V14.9c0-1.32-.03-3.02-1.84-3.02-1.85 0-2.13 1.44-2.13 2.93v5.64H9.36V9h3.41v1.56h.05c.47-.9 1.64-1.84 3.38-1.84 3.62 0 4.29 2.38 4.29 5.48v6.25zM5.34 7.43a2.07 2.07 0 1 1 0-4.14 2.07 2.07 0 0 1 0 4.14zM7.12 20.45H3.56V9h3.56v11.45zM22.23 0H1.77A1.76 1.76 0 0 0 0 1.74v20.52C0 23.23.79 24 1.77 24h20.46c.98 0 1.77-.77 1.77-1.74V1.74C24 .77 23.21 0 22.23 0z"/>
+      </svg>
+      <span>Connect on LinkedIn</span>
+    </a>
+  </div>
 </div>
 
 <section class="about-section">
@@ -42,6 +50,7 @@ permalink: /works/
       <h3>Speaker</h3>
       <p class="work-meta">Thought Leadership</p>
       <p>Sharing insights on product management, customer obsession, and digital transformation.</p>
+      <p><a class="about-more-link" href="/on-the-stage/">View all</a></p>
     </article>
   </div>
 </section>
@@ -61,7 +70,7 @@ permalink: /works/
       <p>Appreciating every chance to learn, contribute, and build with others.</p>
     </article>
     <article class="work-card">
-      <h3>Kindness</h3>
+      <h3>Leading with empathy</h3>
       <p>Leading with empathy and compassion in every interaction.</p>
     </article>
   </div>
