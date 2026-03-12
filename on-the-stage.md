@@ -12,7 +12,7 @@ permalink: /on-the-stage/
 
 <section class="about-section">
   <div class="section-heading">
-    <h2>People, Pixel and Possibilities</h2>
+    <h2>People, Pixels and Possibilities</h2>
     <h3>Demystifying user experience, IIIT Hyderabad, May 6, 2025</h3>
   </div>
      <figure class="click-item">
