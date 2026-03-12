@@ -633,6 +633,11 @@ body {
   transform: translateY(0);
 }
 
+.stage-photo-compact {
+  max-width: 520px;
+  margin: 0 auto;
+}
+
 .work-intro {
   background: var(--surface);
   border: 1px solid var(--line);
