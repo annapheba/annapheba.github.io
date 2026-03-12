@@ -23,8 +23,6 @@ title: Home
       <a class="write-card-link" href="{{ post.url | relative_url }}">
         <p class="hero-kicker">{{ post.date | date: "%d %B %Y" }}</p>
         <h3>{{ post.title }}</h3>
-        {% if post.excerpt %}
-        <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
         {% endif %}
         <span>Open -></span>
       </a>
