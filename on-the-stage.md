@@ -17,7 +17,9 @@ permalink: /on-the-stage/
   </div>
      <figure class="click-item">
       <img class="click-photo" src="{{ '/assets/images/speaker/1746798919137.jpg' | relative_url }}" alt="The Oculus" loading="lazy">
-      
+     </figure>
+  </section>
+  
   <p>This week, I had the absolute pleasure of speaking at International Institute of Information Technology Hyderabad (IIITH) on a topic that’s very close to my heart — how Product Managers approach user experience. The talk was part of Demystifying User Interaction and Usability of Digital Products event and UIUDP Course showcase. <br><br>
 
 As a PM at Microsoft, I’ve come to realize that good UX isn’t just about pixels — it’s about people. It’s a mindset shared across product, design, and engineering. In my session, I spoke about how PMs should bring user-centricity into the product journey by asking the right questions, advocating for the user, and making decisions grounded in empathy, research and data, while sharing my experiences. We also explored how a UX-first mindset helped shape products like Google Maps in India and Airbnb.<br><br>
@@ -34,4 +36,4 @@ What made this even more rewarding was the incredible energy in the room — cur
 Huge thanks to Dr. Raman Saxena, PhD, and the entire IIIT-H team for the warm welcome and this incredible opportunity! <br><br>
 
 </p>
-</section>
+
