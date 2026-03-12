@@ -15,6 +15,8 @@ permalink: /on-the-stage/
   <p class="hero-kicker">6 May 2025</p>
     <h2>People, Pixel and Possibilities</h2>
     <h3>Demystifying user experience, IIIT Hyderabad</h3>
+    <h2>People, Pixels and Possibilities</h2>
+    <h3>Demystifying user experience, IIIT Hyderabad, May 6, 2025</h3>
   </div>
      <figure class="click-item">
       <img class="click-photo" src="{{ '/assets/images/speaker/1746798919137.jpg' | relative_url }}" alt="The Oculus" loading="lazy">
