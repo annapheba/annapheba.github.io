@@ -32,6 +32,14 @@ We touched on:<br>
 What made this even more rewarding was the incredible energy in the room — curious questions, thoughtful feedback, and meaningful conversations. The students also showcased projects across agriculture, women safety, maternity, learning and tourism — packed with empathy, creativity, and intent - all of them do have a bright future ahead <br><br>
 Huge thanks to Dr. Raman Saxena, PhD, and the entire IIIT-H team for the warm welcome and this incredible opportunity! <br><br>
 </p> <br> <br>
-    <figure class="click-item stage-photo-compact">
-      <img class="click-photo" src="{{ '/assets/images/speaker/1746798925999.jpg' | relative_url }}" alt="Pheba speaking at IIIT" loading="lazy">
-     </figure>
+<div class="stage-photo-row">
+  <figure class="click-item stage-photo-compact">
+    <img class="click-photo" src="{{ '/assets/images/speaker/1746798925999.jpg' | relative_url }}" alt="Pheba speaking at IIIT" loading="lazy">
+  </figure>
+  <figure class="click-item stage-photo-compact">
+    <img class="click-photo" src="{{ '/assets/images/speaker/PXL_20250506_130810019.jpg' | relative_url }}" alt="Memento" loading="lazy">
+  </figure>
+  <figure class="click-item stage-photo-compact">
+    <img class="click-photo" src="{{ '/assets/images/speaker/IMG_0872.jpg' | relative_url }}" alt="Memento" loading="lazy">
+  </figure>
+</div>
