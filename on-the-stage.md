@@ -16,24 +16,21 @@ permalink: /on-the-stage/
     <h3>Demystifying user experience, IIIT Hyderabad, May 6, 2025</h3>
   </div>
      <figure class="click-item">
-      <img class="click-photo" src="{{ '/assets/images/speaker/1746798919137.jpg' | relative_url }}" alt="The Oculus" loading="lazy">
+      <img class="click-photo" src="{{ '/assets/images/speaker/1746798919137.jpg' | relative_url }}" alt="Pheba speaking at IIIT" loading="lazy">
      </figure>
   </section>
-  
-  <p>This week, I had the absolute pleasure of speaking at International Institute of Information Technology Hyderabad (IIITH) on a topic that’s very close to my heart — how Product Managers approach user experience. The talk was part of Demystifying User Interaction and Usability of Digital Products event and UIUDP Course showcase. <br><br>
 
-As a PM at Microsoft, I’ve come to realize that good UX isn’t just about pixels — it’s about people. It’s a mindset shared across product, design, and engineering. In my session, I spoke about how PMs should bring user-centricity into the product journey by asking the right questions, advocating for the user, and making decisions grounded in empathy, research and data, while sharing my experiences. We also explored how a UX-first mindset helped shape products like Google Maps in India and Airbnb.<br><br>
-
+  <p>I had the absolute pleasure of speaking at International Institute of Information Technology Hyderabad (IIIT-H) on a topic that’s very close to my heart — how Product Managers approach user experience. The talk was part of the <b>Demystifying User Interaction and Usability of Digital Products</b> event and UIUDP Course showcase. <br><br>
+As a PM at Microsoft, I’ve come to realize that good UX isn’t just about pixels — it’s about people. It’s a mindset shared across product, design, and engineering. In this session, I spoke about how PMs should bring user-centricity into the product journey by asking the right questions, advocating for the user, and making decisions grounded in empathy, research and data, while sharing my experiences. We also explored how a UX-first mindset helped shape products like Google Maps in India and Airbnb.<br><br>
 We touched on:<br>
-🔊 The PM as the voice of both user and business<br>
+ 🔊 The PM as the voice of both user and business<br>
  🎯 The importance of asking and finding out “Why are we building this, and for whom?”<br>
  🧭 How UX becomes a strategic enabler for product success<br>
  🚀 Why tech, usability, accessibility, and human-first thinking go hand in hand<br>
  🤖 The evolving UX landscape with conversational and agentic AI<br>
-
-What made this even more rewarding was the incredible energy in the room — curious questions, thoughtful feedback, and meaningful conversations. The students also showcased projects across agriculture, women safety, maternity, learning and tourism — packed with empathy, creativity, and intent. Thank you for all the feedback - all of you do have a bright future ahead <br><br>
-
+What made this even more rewarding was the incredible energy in the room — curious questions, thoughtful feedback, and meaningful conversations. The students also showcased projects across agriculture, women safety, maternity, learning and tourism — packed with empathy, creativity, and intent - all of them do have a bright future ahead <br><br>
 Huge thanks to Dr. Raman Saxena, PhD, and the entire IIIT-H team for the warm welcome and this incredible opportunity! <br><br>
-
-</p>
-
+</p> <br> <br>
+     <figure class="click-item">
+      <img class="click-photo" src="{{ '/assets/images/speaker/1746798925999.jpg' | relative_url }}" alt="Pheba speaking at IIIT" loading="lazy">
+     </figure>
