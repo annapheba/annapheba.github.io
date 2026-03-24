@@ -50,7 +50,7 @@ permalink: /works/
       <h3>Speaker</h3>
       <p class="work-meta">Thought Leadership</p>
       <p>Sharing insights on product management, customer obsession, and digital transformation.</p>
-      <p><a class="about-more-link" href="/on-the-stage/">View all</a></p>
+      <p><a class="about-more-link" href="/works/on-the-stage/">View all</a></p>
     </article>
   </div>
 </section>

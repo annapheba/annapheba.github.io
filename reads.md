@@ -37,6 +37,16 @@ permalink: /reads/
       <p class="book-title">A Gentleman in Moscow</p>
       <p class="book-author">Amor Towles</p>
     </article>
+    <article class="book-card">
+      <img
+        class="book-thumb"
+        src="https://placehold.co/300x450?text=Mother+Mary+Comes+to+Me"
+        alt="Cover of Mother Mary Comes to Me by Arundhati Roy"
+        loading="lazy"
+      >
+      <p class="book-title">Mother Mary Comes to Me</p>
+      <p class="book-author">Arundhati Roy</p>
+    </article>
   </div>
 </section>
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: On the Stage
-permalink: /on-the-stage/
+permalink: /works/on-the-stage/
 ---
 
 <div class="hero">
