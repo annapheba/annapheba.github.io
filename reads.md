@@ -30,22 +30,22 @@ permalink: /reads/
     <article class="book-card">
       <img
         class="book-thumb"
-        src="https://covers.openlibrary.org/b/isbn/9780670026197-M.jpg"
-        alt="Cover of A Gentleman in Moscow by Amor Towles"
+        src="https://placehold.co/300x450?text=Ticket+to+Kerala"
+        alt="Cover of Ticket to Kerala by SR Praveen"
         loading="lazy"
       >
-      <p class="book-title">A Gentleman in Moscow</p>
-      <p class="book-author">Amor Towles</p>
+      <p class="book-title">Ticket to Kerala</p>
+      <p class="book-author">SR Praveen</p>
     </article>
     <article class="book-card">
       <img
         class="book-thumb"
-        src="https://placehold.co/300x450?text=Mother+Mary+Comes+to+Me"
-        alt="Cover of Mother Mary Comes to Me by Arundhati Roy"
+        src="https://covers.openlibrary.org/b/isbn/9781501160769-M.jpg"
+        alt="Cover of Beartown by Fredrik Backman"
         loading="lazy"
       >
-      <p class="book-title">Mother Mary Comes to Me</p>
-      <p class="book-author">Arundhati Roy</p>
+      <p class="book-title">Beartown</p>
+      <p class="book-author">Fredrik Backman</p>
     </article>
   </div>
 </section>
@@ -132,6 +132,16 @@ permalink: /reads/
       >
       <p class="book-title">A Man Called Ove</p>
       <p class="book-author">Fredrik Backman</p>
+    </article>
+    <article class="book-card">
+      <img
+        class="book-thumb"
+        src="https://placehold.co/300x450?text=Mother+Mary+Comes+to+Me"
+        alt="Cover of Mother Mary Comes to Me by Arundhati Roy"
+        loading="lazy"
+      >
+      <p class="book-title">Mother Mary Comes to Me</p>
+      <p class="book-author">Arundhati Roy</p>
     </article>
   </div>
 </section>
