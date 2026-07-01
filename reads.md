@@ -33,6 +33,7 @@ permalink: /reads/
         src="https://placehold.co/300x450?text=Ticket+to+Kerala"
         alt="Cover of Ticket to Kerala by SR Praveen"
         loading="lazy"
+        onerror="this.onerror=null;this.src='/assets/images/books/book-cover-fallback.svg';"
       >
       <p class="book-title">Ticket to Kerala</p>
       <p class="book-author">SR Praveen</p>
@@ -43,6 +44,7 @@ permalink: /reads/
         src="https://covers.openlibrary.org/b/isbn/9781501160769-M.jpg"
         alt="Cover of Beartown by Fredrik Backman"
         loading="lazy"
+        onerror="this.onerror=null;this.src='/assets/images/books/book-cover-fallback.svg';"
       >
       <p class="book-title">Beartown</p>
       <p class="book-author">Fredrik Backman</p>
@@ -59,6 +61,7 @@ permalink: /reads/
         src="https://covers.openlibrary.org/b/isbn/9780802162175-M.jpg"
         alt="Cover of The Covenant of Water by Abraham Verghese"
         loading="lazy"
+        onerror="this.onerror=null;this.src='/assets/images/books/book-cover-fallback.svg';"
       >
       <p class="book-title">Covenant of water</p>
       <p class="book-author">Abraham Verghese</p>
@@ -69,6 +72,7 @@ permalink: /reads/
         src="https://covers.openlibrary.org/b/isbn/9781501160837-M.jpg"
         alt="Cover of Anxious People by Fredrik Backman"
         loading="lazy"
+        onerror="this.onerror=null;this.src='/assets/images/books/book-cover-fallback.svg';"
       >
       <p class="book-title">Anxious People</p>
       <p class="book-author">Fredrik Backman</p>
@@ -79,6 +83,7 @@ permalink: /reads/
         src="https://covers.openlibrary.org/b/isbn/9781250301697-M.jpg"
         alt="Cover of The Silent Patient by Alex Michaelides"
         loading="lazy"
+        onerror="this.onerror=null;this.src='/assets/images/books/book-cover-fallback.svg';"
       >
       <p class="book-title">Silent Patient</p>
       <p class="book-author">Alex Michaelides</p>
@@ -89,6 +94,7 @@ permalink: /reads/
         src="https://covers.openlibrary.org/b/isbn/9789354893985-M.jpg"
         alt="Cover of Desperately Seeking Shah Rukh by Shrayana Bhattacharya"
         loading="lazy"
+        onerror="this.onerror=null;this.src='/assets/images/books/book-cover-fallback.svg';"
       >
       <p class="book-title">Desperately Seeking Shah Rukh</p>
       <p class="book-author">Shrayana Bhattacharya</p>
@@ -99,6 +105,7 @@ permalink: /reads/
         src="https://covers.openlibrary.org/b/isbn/9781401323254-M.jpg"
         alt="Cover of The Last Lecture by Randy Pausch"
         loading="lazy"
+        onerror="this.onerror=null;this.src='/assets/images/books/book-cover-fallback.svg';"
       >
       <p class="book-title">The Last Lecture</p>
       <p class="book-author">Randy Pausch</p>
@@ -109,6 +116,7 @@ permalink: /reads/
         src="https://covers.openlibrary.org/b/isbn/9781524763138-M.jpg"
         alt="Cover of Becoming by Michelle Obama"
         loading="lazy"
+        onerror="this.onerror=null;this.src='/assets/images/books/book-cover-fallback.svg';"
       >
       <p class="book-title">Becoming</p>
       <p class="book-author">Michelle Obama</p>
@@ -119,6 +127,7 @@ permalink: /reads/
         src="https://covers.openlibrary.org/b/isbn/9780143416330-M.jpg"
         alt="Cover of Aadujeevitham by Benyamin"
         loading="lazy"
+        onerror="this.onerror=null;this.src='/assets/images/books/book-cover-fallback.svg';"
       >
       <p class="book-title">Aadujeevitham</p>
       <p class="book-author">Benyamin</p>
@@ -129,6 +138,7 @@ permalink: /reads/
         src="https://covers.openlibrary.org/b/isbn/9781476738024-M.jpg"
         alt="Cover of A Man Called Ove by Fredrik Backman"
         loading="lazy"
+        onerror="this.onerror=null;this.src='/assets/images/books/book-cover-fallback.svg';"
       >
       <p class="book-title">A Man Called Ove</p>
       <p class="book-author">Fredrik Backman</p>
@@ -139,6 +149,7 @@ permalink: /reads/
         src="https://placehold.co/300x450?text=Mother+Mary+Comes+to+Me"
         alt="Cover of Mother Mary Comes to Me by Arundhati Roy"
         loading="lazy"
+        onerror="this.onerror=null;this.src='/assets/images/books/book-cover-fallback.svg';"
       >
       <p class="book-title">Mother Mary Comes to Me</p>
       <p class="book-author">Arundhati Roy</p>
